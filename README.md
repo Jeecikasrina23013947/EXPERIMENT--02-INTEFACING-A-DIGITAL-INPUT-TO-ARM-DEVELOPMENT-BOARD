@@ -87,7 +87,8 @@ void push_button()
  ![2 2](https://github.com/user-attachments/assets/2de81d7e-4aec-4f30-b3f6-3ca59807012f)
 
 ## layout of the circuit 
- ![2 1](https://github.com/user-attachments/assets/ba93a2b9-df2f-475e-89a2-f6acdb11a0f7)
+ 
+![pmc-2 1](https://github.com/user-attachments/assets/8c7ba0fb-65f1-4e8d-a802-b2f4c2b86da2)
 
  
 ## Result :
